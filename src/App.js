@@ -5,6 +5,9 @@ import Stacking from './components/Stacking';
 import Minting from './components/Minting';
 import Navbar from './components/Navbar';
 import { ethers } from 'ethers';
+import contractAddress from './json/Staking-address.json';
+import contractABI from "./json/Staking.json";
+
 
 
 
